@@ -7,6 +7,7 @@ namespace Task2
         static void Main(string[] args)
         {
             //setup
+            //TODO: All variables need to be initialized.
             Single height1;
             Single width1;
             Single height2;
